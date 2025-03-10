@@ -84,15 +84,5 @@ where:
 - **Data Resampling:**
   - To maintain consistency across asset classes, all data was standardized to a quarterly frequency.
 
----
-
-## Data Delivery
-
-- **Final Dataset:** A comprehensive workbook containing processed data, risk metrics, and monthly returns for correlation analysis.
-- **Raw Data:** Provided separately to illustrate pre-processing steps.
-- **Note:** All values are denominated in AUD. Data constraints due to free resources may limit historical coverage for some assets.
-
----
-
 This project delivers a structured and comprehensive dataset for financial risk analysis across Australian markets, facilitating data-driven insights into volatility, correlations, and asset performance over time.
 
