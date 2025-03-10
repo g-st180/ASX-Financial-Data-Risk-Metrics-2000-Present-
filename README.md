@@ -46,7 +46,7 @@ A comprehensive dataset and analysis of Australian financial markets, covering e
 - **Correlation Matrix:**  
   Displays how different asset classes correlate with one another.
 
-  **[Placeholder for Correlation Heatmap]**
+ ![CM](https://github.com/user-attachments/assets/fdc120e3-2ead-44cf-b486-768d061fcf81)
 
 ---
 
