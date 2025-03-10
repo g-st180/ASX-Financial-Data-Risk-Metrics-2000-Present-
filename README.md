@@ -66,8 +66,6 @@ where:
 - \( YTM \) = Yield to Maturity
 - \( T \) = Time to maturity (in years)
 
-**[Placeholder for Bond Yield Curve Visualization]**
-
 ---
 
 ## Data Normalization & Interpolation
